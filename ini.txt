@@ -2,3 +2,4 @@
 伝えなきゃ
 
 git status
+git merge
